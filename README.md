@@ -11,7 +11,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
  
 </header>
 <!--
-  <<< Author notes: Course start >>>
+  <<< Author notes: Course start >>> 
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
 --> 
